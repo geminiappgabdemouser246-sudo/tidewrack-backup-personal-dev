@@ -1,5 +1,5 @@
 extends Node
-## GameState – global save/load, story flags, and journal persistence.
+## GameState –a global save/load, story flags, and journal persistence.
 ##
 ## Autoloaded as `GameState`. Holds narrative flags set by dialogue choices and
 ## coordinates `Journal` entry persistence in `user://save.json` so "Continue"
